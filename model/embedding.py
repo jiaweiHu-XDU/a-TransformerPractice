@@ -1,8 +1,9 @@
-"""
-@author: Zhihao Li
-@date: 2024-11-11
-@homepage: https://zhihaoli.top/
-"""
+/*
+ * @Author: Jiawei Hu 
+ * @Date: 2024-11-29 16:12:14 
+ * @Last Modified by:   Jiawei Hu 
+ * @Last Modified time: 2024-11-29 16:12:14 
+ */
 import torch
 import torch.nn as nn
 import math
